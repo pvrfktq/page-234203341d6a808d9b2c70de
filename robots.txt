@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://k8l0mg.cn/sitemap.xml

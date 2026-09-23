@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a8c878c77edd649060f71cc0",
+  "owner": "pvrfktq",
+  "repo": "page-234203341d6a808d9b2c70de",
+  "title": "BLUEDAIR",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "234203341d6a808d9b2c70de",
+      "a": "BLUEDAIR",
+      "b": "机场官网线路发布页",
+      "entity": "BLUEDAIR",
+      "brand": "BLUEDAIR",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "44f77473eb1749288ef5ec4e1bbd6e04dfbc178840bbc70fc3ed6cb811671aca",
+      "content": {
+        "primary_entity": "BLUEDAIR",
+        "keyword1": "BLUEDAIR",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：Windows 桌面端、macOS、iOS、Android 以及路由器插件均可导入订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后，打开客户端导入订阅测试节点延迟，体验优先选低延迟节点。",
+          "AI_CLOSING_TITLE": "选套餐，连节点",
+          "AI_DESCRIPTION": "，专注海外网络加速，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、20 台设备在线，含 VIP 专属高带宽节点与企业定制路由。支持年付方案，选择所需设备与周期后按客户端文档配置订阅。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。可按设备数量与月流量选择。",
+          "AI_FAQ_ANSWER_2": "在客户端订阅页面粘贴订阅链接，保存后更新节点列表即可。不同客户端菜单名称略有差异，可参考对应客户端文档。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化和 7x24 优先工单支持，适合对延迟和稳定性要求高的用户。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供企业定制路由和专属客户经理服务，适合小型团队协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何将订阅导入客户端？",
+          "AI_FAQ_QUESTION_3": "年付和月付如何选择？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_QUESTION_5": "团队版能多人共享吗？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 IPLC 专线游戏加速优化；团队版提供 VIP 专属高带宽节点与企业定制路由，按场景选用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "线路按需匹配",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个维度选择适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择维度",
+          "AI_GUIDE_INTRO": "根据设备数量和常用场景选择套餐，确认适配要求后完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "BLUEDAIR 提供海外加速订阅，套餐覆盖基础版、旗舰版与团队版，按流量、设备数量和线路类型区分。选择套餐后导入客户端订阅，即可在电脑、手机或路由器上使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合流媒体与游戏，团队版适合多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端与操作系统版本。",
+          "AI_STEP_TEXT_3": "打开客户端订阅页面，按客户端文档导入订阅并更新节点。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BLUEDAIR 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "k8l0mg.cn",
+    "host": "k8l0mg.cn"
+  },
+  "file_hashes": {
+    "index.html": "03b09be78925c7f57333ceb6f2c7051e82598baf6483964bcd6009b8884c746d",
+    "sitemap.xml": "cca212f0d267faf8e2c4b34ee0f9b6212e65fecd52b2c74bbbd2f080d5368252",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "06e65d48fe4f78305de11a641099d4f5ca2bc862cc3d71e92758fe15d85ee43b",
+    "robots.txt": "e4d26386644a37c39280f8340375c9382c315c3cd9609e572c84547853b2ee87",
+    "13a53aa458d625cdcfdd99d590605b33.txt": "2b0ccd0b211c48e0380ee2d11dae1efafb829a71ca71543f145378d2df19a41c"
+  },
+  "revision": "bf0daafde683d72b388965e97224d40d0f6695aca04132503394be73ced2595a"
+}
